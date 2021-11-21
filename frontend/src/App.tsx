@@ -2,7 +2,7 @@ import RoutesMain from "RoutesMain";
 
 const App = () => {
   return (
-      <RoutesMain />
+    <RoutesMain />
   );
 }
 
