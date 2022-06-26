@@ -1,0 +1,174 @@
+[33mcommit 8cf40c5217e417474ef5a281ab70e42f4e6386a2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mfeature/alterando_cor_do_botão[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Jun 26 03:34:23 2022 -0300
+
+    Alterando btn para cor secundary
+
+[33mcommit 1f2ac06b475194e596a51df8483cee85ed72dccd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feature/alterando_cor_do_botão[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Erick Oliveira <erickoliveira@rorato.local>
+Date:   Wed Dec 8 08:10:03 2021 -0300
+
+    heroku backend integration 3
+
+[33mcommit 32f2b68f20997b3111fa1ec3cc9391714d016926[m
+Author: Erick Oliveira <erickoliveira@rorato.local>
+Date:   Wed Dec 8 07:59:55 2021 -0300
+
+    heroku backend integration 2
+
+[33mcommit f802398f95f5a64fd240a3331559b4ee33c76084[m
+Author: Erick Oliveira <erickoliveira@rorato.local>
+Date:   Wed Dec 8 07:56:19 2021 -0300
+
+    heroku backend integration
+
+[33mcommit e818f4a9dd44b1255667ca0c374553636601a367[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Mon Dec 6 23:50:47 2021 -0300
+
+    Pagination
+
+[33mcommit 30b2d59c5db54c3154ff68cbbe6ac45a97833199[m
+Merge: 24a7a36 2a241d4
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Nov 21 17:12:10 2021 -0300
+
+    DataTable integration
+
+[33mcommit 24a7a369e2132547422393d31ae6c47a1f158a3b[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Nov 21 17:06:51 2021 -0300
+
+    DataTable integration
+
+[33mcommit 2a241d443edc5d7381b5c2018aa0eaeaec6013e0[m
+Author: Erick Oliveira <erickoliveira@rorato.local>
+Date:   Tue Nov 16 08:04:14 2021 -0300
+
+    Create types Seller, Sale, SalePage
+
+[33mcommit 14ab4482310b10301c1dbed5e71933b1ecbbf3e1[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Mon Nov 15 17:06:10 2021 -0300
+
+    react-router-dom v6
+
+[33mcommit a6d979c1890c632a4d784fb91ea7b565bdf3f2d4[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Mon Nov 15 17:04:54 2021 -0300
+
+    BartChart Integratio
+
+[33mcommit 27315c564304fe15bdfbeb3ba3ffed78542771aa[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sat Nov 13 19:55:52 2021 -0300
+
+    BartChart Integration
+
+[33mcommit b2541f6235536e67ffb070247e4e391bbd717270[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sat Nov 13 19:15:58 2021 -0300
+
+    DonutChart Integration
+
+[33mcommit 96ef111b2d2537727be3eb4262c5d1f5db46338f[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sat Nov 13 17:30:50 2021 -0300
+
+    First Request
+
+[33mcommit 4ff58be8e8ea47598c3b65bb3a121e1e812b3505[m
+Author: Erick Oliveira <erickoliveira@rorato.local>
+Date:   Thu Nov 11 08:10:39 2021 -0300
+
+    Home, Navigation
+
+[33mcommit 3250ea8d97c9434f190e623008d61f3f549f45c1[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Wed Nov 10 22:32:00 2021 -0300
+
+    Routes
+
+[33mcommit 924d184192195b414503946035b9301fb02631cb[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Wed Nov 10 21:28:37 2021 -0300
+
+    teste00
+
+[33mcommit 4542e03d51d09c709183bc2ba2a0005a4eaaf00c[m
+Author: Erick Oliveira <erickoliveira@rorato.local>
+Date:   Tue Nov 9 07:30:37 2021 -0300
+
+    teste2
+
+[33mcommit c9933f1bccf4da5a8d624ae4a5535908369b5a62[m
+Author: Erick Oliveira <erickoliveira@rorato.local>
+Date:   Tue Nov 9 07:14:58 2021 -0300
+
+    teste
+
+[33mcommit 0db25cd6c11c87a755e19ad3e005031bbc0e94ec[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Sep 19 16:48:45 2021 -0300
+
+    First homolog
+
+[33mcommit 9b7b4cac23908306496f93dee5f872d1376c1652[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Sep 19 15:39:37 2021 -0300
+
+    Group by search
+
+[33mcommit cf5a62bea20fdcf4153e62cccdfabcd226bc2ab6[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Sep 12 21:15:07 2021 -0300
+
+    Pagination
+
+[33mcommit 7db048bef1c7003a9cd00f373dbaaacd6b98e30e[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Sep 12 16:07:10 2021 -0300
+
+    Layers
+
+[33mcommit 2619b1b9c93bf5dca5cdc995d23fc49b0770ef74[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Sep 12 14:04:06 2021 -0300
+
+    Domain model, database seed
+
+[33mcommit 63c5af33c351751b0f6194f371dcc8c04cd3813a[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Sep 12 12:38:49 2021 -0300
+
+    Security config
+
+[33mcommit 76edeebbceb948fbbf1cedbd871674415c2b34c5[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Sun Sep 12 11:09:06 2021 -0300
+
+    Static charts
+
+[33mcommit ab86729366e4027e0c8247e23a5ad827e25db4b3[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Fri Sep 10 11:27:48 2021 -0300
+
+    Basic static components
+
+[33mcommit f4f05fcf4525e32b12e9beef001ac99387cb6939[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Thu Sep 9 21:22:19 2021 -0300
+
+    Bootstrap
+
+[33mcommit b33353fb70792b323e02e202f0694965ab4e61e6[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Wed Sep 8 22:10:24 2021 -0300
+
+    Project clean
+
+[33mcommit 1c512d765b9342f0b7ed4fcda92dd74d4368c594[m
+Author: Erick Oliveira <erick.oliveira9607@gmail.com>
+Date:   Wed Sep 8 21:11:00 2021 -0300
+
+    first commit
